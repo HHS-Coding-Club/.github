@@ -11,3 +11,4 @@ The following are important hyperlinks related to club and activites.
 - [Homepage](https://hhs-coding-club.github.io/homepage)
 - [Code of Conduct](https://hhs-coding-club.github.io/documents/code-of-conduct.html)
 - [License](https://hhs-coding-club.github.io/documents/license.html)
+- [Discord Server](https://discord.gg/R65UNFb376)
