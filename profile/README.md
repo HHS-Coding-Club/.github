@@ -24,15 +24,50 @@
 ## 🔗 Important Links
 
 <p align="center">
-  Stay connected and find all the resources you need:
-</p>
-
-<p align="center">
   <a href="https://hhs-coding-club.github.io/homepage"><strong>Homepage</strong></a> • 
   <a href="https://hhs-coding-club.github.io/documents/code-of-conduct.html"><strong>Code of Conduct</strong></a> • 
   <a href="https://hhs-coding-club.github.io/documents/license.html"><strong>License</strong></a> • 
   <a href="https://discord.gg/R65UNFb376"><strong>Discord Server</strong></a>
 </p>
+
+---
+
+## 📘 Learning Resources
+
+<p align="center">
+  Here are some excellent resources to help you learn and improve your coding skills:
+</p>
+
+- [W3Schools](https://www.w3schools.com): Great for learning web development basics.
+- [Codecademy](https://www.codecademy.com): Interactive coding lessons for various languages.
+- [freeCodeCamp](https://www.freecodecamp.org): Comprehensive coding curriculum with real projects.
+- [MDN Web Docs](https://developer.mozilla.org): The go-to resource for web developers.
+- [Stack Overflow](https://stackoverflow.com): Perfect for getting help on coding questions.
+
+---
+
+## 🛠️ Tools & Platforms
+
+<p align="center">
+  Recommended tools and platforms to assist you with coding and collaboration:
+</p>
+
+- [GitHub](https://github.com): Version control and collaboration platform for your projects.
+- [Replit](https://replit.com): Online coding environment to code together in real-time.
+- [Visual Studio Code](https://code.visualstudio.com): A powerful code editor that you should definitely check out!
+- [WatermelonKatana](https://watermelonkatana.com): A social platform for posting games you have created!
+
+---
+
+## 📌 Club Links
+
+<p align="center">
+  Explore our club resources and affiliations:
+</p>
+
+- [Our Website](https://hhs-coding-club.github.io): Our official website!
+- [Our GitHub Organization](https://github.com/HHS-Coding-Club): Our official GitHub page.
+- [Hack Club](https://hackclub.com): The official Hack Club website.
 
 ---
 
