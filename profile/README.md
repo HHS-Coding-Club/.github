@@ -1,8 +1,10 @@
 # HCC - Hanford Coding Club
 
+<!---
 <p align="center">
   <img src="https://github.com/HHS-Coding-Club/assets/blob/main/images/PXL_20241009_223036238.MP.jpg?raw=true" width="600" />
 </p>
+--->
 
 <p align="center">
   <strong>Welcome to the Hanford Coding Club's GitHub Organization!</strong>  
